@@ -1,0 +1,35 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  border: 2px solid red;
+}
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 31px;
+  padding-bottom: 32px;
+}
+
+.header__list {
+  width: 444px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.header__list-item {
+  text-transform: uppercase;
+}
+.header__link {
+  text-decoration: none;
+  color: #000;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+}
+.header__image {
+  width: 61px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
