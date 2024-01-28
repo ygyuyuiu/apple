@@ -1,0 +1,75 @@
+.container {
+  border: 2px solid red;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.product__title {
+  margin-top: 53px;
+  margin-bottom: 56px;
+}
+.heading {
+  text-align: center;
+  font-family: "Readex Pro";
+  font-size: 42px;
+  font-weight: 400;
+  margin-bottom: 9px;
+}
+.text {
+  text-align: center;
+  font-family: "Readex Pro";
+  font-size: 13px;
+}
+.product__box {
+  display: flex;
+  justify-content: space-evenly;
+}
+.product__item {
+  width: 303px;
+  padding: 28px;
+}
+
+.product__macbook-img {
+  width: 247px;
+  margin-bottom: 55px;
+}
+.product__m1-img {
+  width: 247px;
+  margin-bottom: 55px;
+}
+.product__watch-img {
+  width: 147px;
+  display: block;
+  margin: 0 auto;
+}
+.product__ipad-img {
+  width: 147px;
+  display: block;
+  margin: 0 auto;
+}
+.product__description {
+  display: inline-block;
+}
+.product__description-heading {
+  font-family: "Readex Pro";
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 9px;
+}
+.product__description-text {
+  width: 261px;
+  color: #4b4b4b;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.8px;
+  margin-bottom: 9px;
+}
+.product__description-macbook {
+  margin-bottom: 25px;
+}
+.product__description-price {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 27px;
+}
