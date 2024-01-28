@@ -1,0 +1,76 @@
+.container {
+  border: 2px solid red;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.best__title {
+  margin-top: 28px;
+  margin-bottom: 56px;
+}
+.heading {
+  text-align: center;
+  font-family: "Readex Pro";
+  font-size: 42px;
+  font-weight: 400;
+  margin-top: 19px;
+  margin-bottom: 9px;
+}
+.text {
+  text-align: center;
+  font-family: "Readex Pro";
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.best__cards {
+  display: flex;
+  justify-content: space-between;
+}
+.best__cards-item {
+  width: 380px;
+  border-radius: 16px;
+  background: #f8f9fa;
+}
+.best__cards-title {
+  display: block;
+  text-align: center;
+  font-family: "Readex Pro";
+  font-size: 13px;
+  margin-top: 41px;
+}
+.best__cards-productivity {
+  font-family: "Readex Pro";
+  font-size: 28px;
+  display: block;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.best__cards-link {
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+  border: 1px solid #000;
+  padding: 14px 63px;
+  border-radius: 32px;
+  display: inline-block;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.best__cards-watches {
+  width: 259px;
+  margin-left: 77px;
+  margin-top: 30px;
+}
+.best__cards-phones {
+  width: 294px;
+  margin-left: 59px;
+  margin-top: 30px;
+  display: block;
+}
+.best__cards-gadjet {
+  width: 355px;
+  margin-left: 29px;
+  margin-top: 30px;
+}
