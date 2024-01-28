@@ -7,5 +7,5 @@
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  border: 2x solid red;
+  /* border: 2x solid red; */
 }

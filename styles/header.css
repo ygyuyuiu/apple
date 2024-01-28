@@ -1,7 +1,7 @@
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 .header__inner {
   display: flex;
@@ -26,6 +26,7 @@
   color: #000;
   font-family: "Inter", sans-serif;
   font-size: 14px;
+  text-transform: uppercase;
 }
 .header__image {
   width: 61px;
