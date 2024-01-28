@@ -1,0 +1,40 @@
+.footer {
+  background: #f8f9fa;
+}
+
+.footer__box {
+  margin: 29px 73px 30px;
+  padding-top: 16px;
+  display: flex;
+  justify-content: space-around;
+}
+.footer__advertising {
+  width: 394px;
+}
+.footer__logo {
+  width: 181px;
+  display: block;
+}
+.footer__text {
+  width: 304px;
+  text-align: left;
+  margin-top: 18px;
+}
+.footer__list {
+  list-style: none;
+}
+.footer__link {
+  text-decoration: none;
+  color: #000;
+  font-family: "Inter", sans-serif;
+  font-size: 17px;
+}
+.footer__link_fz {
+  color: #000;
+  font-family: "Readex Pro";
+  font-size: 22px;
+  margin-bottom: 19px;
+}
+.footer__list-item {
+  margin-bottom: 14px;
+}
