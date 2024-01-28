@@ -1,0 +1,44 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  /* border: 2px solid red; */
+}
+.promo__container {
+  background-color: rgb(200, 191, 191);
+  border-radius: 24px;
+  position: relative;
+}
+.promo__title {
+  margin: 145px 0 0 56px;
+  display: inline-block;
+}
+.promo__header {
+  font-family: "Readex Pro";
+  font-size: 58px;
+  width: 588px;
+}
+.promo__text {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  margin-bottom: 30px;
+  width: 565px;
+}
+.button {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  border: 1px solid #000;
+  border-radius: 34px;
+  color: #000;
+  padding: 14px 53px;
+}
+.promo__button {
+  margin-bottom: 127px;
+  width: 170px;
+  display: inline-block;
+}
+.promo__img {
+  width: 647px;
+  position: absolute;
+  top: -8px;
+  right: -40px;
+}
