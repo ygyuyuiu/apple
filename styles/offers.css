@@ -1,0 +1,148 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  border: 2px solid red;
+}
+.offers__container {
+  position: relative;
+}
+.offers__title {
+  margin-top: 75px;
+  margin-bottom: 56px;
+}
+.heading {
+  text-align: center;
+  font-family: "Readex Pro";
+  font-size: 42px;
+  font-weight: 400;
+  margin-bottom: 9px;
+}
+.title-text {
+  text-align: center;
+  font-family: "Readex Pro";
+  font-size: 14px;
+  display: block;
+  margin: 0 auto;
+}
+.offers__text {
+  width: 628px;
+}
+
+.offers__laptop-inner {
+  width: 539px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  box-shadow: 0px 0px 65px 24px rgba(34, 60, 80, 0.2);
+  border-radius: 32px;
+}
+
+.offers__laptop-box {
+  width: 400px;
+}
+.offers__heading {
+  font-family: "Inter", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.offers__heading-laptop_align {
+  width: 60px;
+  display: block;
+  position: relative;
+  left: 477px;
+}
+.offers__span {
+  font-family: "Readex Pro";
+  font-size: 32px;
+  line-height: 38.4px;
+}
+.offers__span-laotop_align {
+  width: 192px;
+  display: block;
+  position: relative;
+  left: 335px;
+  bottom: 0;
+  text-align: right;
+}
+
+.offers__phone-inner {
+  width: 312px;
+  height: 792px;
+  display: inline-block;
+  margin-right: 15px;
+  box-shadow: 0px 0px 65px 24px rgba(34, 60, 80, 0.2);
+  border-radius: 32px;
+}
+.offers__phone-box {
+  margin-top: 143px;
+  margin-left: 14px;
+  margin-bottom: 41px;
+}
+.offers__heading-phone_align {
+  width: 56px;
+  position: relative;
+  left: 130px;
+}
+.offers__span-phone_align {
+  width: 250px;
+  display: block;
+  text-align: center;
+  margin-right: 30px;
+  margin-left: 31px;
+}
+
+.offers__ipad-inner {
+  width: 312px;
+  height: 792px;
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 0px 0px 65px 24px rgba(34, 60, 80, 0.2);
+  border-radius: 32px;
+}
+
+.offers__ipad-box {
+  display: inline-block;
+  vertical-align: -10px;
+}
+
+.offers__heading-ipad_align {
+  margin-top: 144px;
+  position: relative;
+  left: 130px;
+}
+
+.offers__span-ipad_align {
+  display: block;
+  width: 233px;
+  text-align: center;
+  margin-right: 39px;
+  margin-left: 39px;
+}
+
+.offers__watch-inner {
+  width: 539px;
+  position: relative;
+  position: absolute;
+  top: 750px;
+  left: 0;
+  box-shadow: 0px 0px 65px 24px rgba(34, 60, 80, 0.2);
+  border-radius: 32px;
+}
+
+.offers__watch-box {
+  width: 281px;
+}
+
+.offers__heading-watch_align {
+  position: absolute;
+  top: 87px;
+  right: 42px;
+}
+
+.offers__span-watch_align {
+  position: absolute;
+  bottom: 25px;
+  right: 40px;
+  width: 128px;
+  text-align: right;
+}
